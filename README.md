@@ -3,9 +3,9 @@
 <h2>👨‍💻 Software Development Projects:</h2>
   
   
-  <b> Soccer Apparel E-Commerce Online Store </b>
-  <b> Weather app </b>
-  <b> Informative Plant Selling Website </b>
+  <b>Soccer Apparel E-Commerce Online Store</b>
+  <b>Weather app</b>
+  <b>Informative Plant Selling Website</b>
 
 
   <h2>CyberSecurity Projects </h2>
