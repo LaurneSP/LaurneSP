@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @LaurneSP
-- 👀 I’m interested in Software Development / Engineering
-- 🌱 I’m countinuously learning Frontend Development 
-- 💞️ I’m looking to collaborate on many projects in the future!
-- 📫 How to reach me LaurneSP@gmail.com
+<h1>Hi, I'm Laurne Paul! <br/><a href="https://github.com/LaurneSP">Programmer</a>, <a href="https://www.linkedin.com/in/LaurneSP/">Cybersecurity Analyst</a>
+  
+<h2>👨‍💻 Software Development Projects:</h2>
+  
+  
+  <b> Soccer Apparel E-Commerce Online Store </b>
+  <b> Weather app </b>
+  <b> Informative Plant Selling Website </b>
 
-<!---
-LaurneSP/LaurneSP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+  <h2>CyberSecurity Projects </h2>
+  <b>Active Directory Home Lab </b>
+    
+    
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="LaurneSP "| LinkedIn" width="22px" src=" " />][linkedin]
+[<img align="left" alt="LaurneSP "| Indeed" width="22px" src=" " />][Indeed]
+  
+
+
