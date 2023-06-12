@@ -11,11 +11,7 @@
   <h2>CyberSecurity Projects </h2>
   <b>Active Directory Home Lab </b>
     
-    
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="LaurneSP "| LinkedIn" width="22px" src=" " />][linkedin]
-[<img align="left" alt="LaurneSP "| Indeed" width="22px" src=" " />][Indeed]
   
 
 
