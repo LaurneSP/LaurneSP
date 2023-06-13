@@ -10,7 +10,7 @@
 
 
   <h2>💻CyberSecurity Projects </h2>
-  <b>Active Directory Home Lab </b>
+  <b>•Active Directory Home Lab </b>
     
 
   
@@ -19,5 +19,5 @@
 
 
 <h2> 📝Certificates</h2>
-<b> Cybersecurity Analyst </b>
+<b> •Cybersecurity Analyst </b>
 
