@@ -2,14 +2,14 @@
   
 <h2>👨‍💻 Software Development Projects:</h2>
   
-  <b>Soccer Apparel E-Commerce Online Store</b>
+  <b>⚽️Soccer Apparel E-Commerce Online Store</b>
   
-  <b>Weather app</b>
+  <b>🌦Weather app</b>
   
-  <b>Informative Plant Selling Website</b>
+  <b>🪷🪴Informative Plant Selling Website</b>
 
 
-  <h2>CyberSecurity Projects </h2>
+  <h2>💻CyberSecurity Projects </h2>
   <b>Active Directory Home Lab </b>
     
 
@@ -17,4 +17,7 @@
     
 <h2> 🤳 Connect with me:</h2>
 
+
+<h2> 📝Certificates</h2>
+<b> Cybersecurity Analyst </b>
 
