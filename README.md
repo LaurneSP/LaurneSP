@@ -9,7 +9,7 @@
   <b>•🪷🪴Informative Plant Selling Website</b>
 
 
-  <h2>💻CyberSecurity Projects </h2>
+  <h2>💻Cybersecurity Projects </h2>
   <b>•Active Directory Home Lab </b>
     
 
