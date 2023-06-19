@@ -10,8 +10,8 @@
 
 
   <h2>💻Cybersecurity Projects </h2>
-  <b>•Active Directory Home Lab </b>
-    
+  <b>•Active Directory VM (Oracle)Home Lab </b>
+  <b>•kali linux Vm (Ubuntu)Home Lab </b>
 
 
 <h2> 📝Certificates</h2>
