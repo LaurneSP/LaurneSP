@@ -19,6 +19,7 @@
  
   <b>•Protecting Endpoints with Xcitium OpenEDR lab</b>
 
+  <b>•Nessus Vulnerability Management </b>
 <h2> 📝Certificates</h2>
 <b> •Cybersecurity Analyst </b>
 
