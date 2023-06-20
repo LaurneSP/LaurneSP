@@ -11,15 +11,17 @@
 
   <h2>💻Cybersecurity Projects </h2>
 
+
   <b>•Active Directory VM (Oracle)Home Lab </b>
 
-  <b>•kali linux Vm (Ubuntu)Home Lab </b>
-
-  <b>•Microsoft Sentinel Live Attack Demonstration Home Lab </b>
+  <b>•Microsoft Sentinel Live Attack Demonstration Home Lab (Done on Kali Linux Vm)</b>
  
   <b>•Protecting Endpoints with Xcitium OpenEDR lab</b>
 
   <b>•Nessus Vulnerability Management </b>
+
+
+  
 <h2> 📝Certificates</h2>
 <b> •Cybersecurity Analyst </b>
 
