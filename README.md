@@ -15,6 +15,8 @@
 
   <b>•kali linux Vm (Ubuntu)Home Lab </b>
 
+  <b>•Microsoft Sentinel Live Attack Demonstration Home Lab </b>
+
 
 <h2> 📝Certificates</h2>
 <b> •Cybersecurity Analyst </b>
