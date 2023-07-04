@@ -15,10 +15,6 @@
   <b>•Active Directory VM (Oracle)Home Lab </b>
 
   <b>•Protecting Endpoints with Xcitium OpenEDR lab</b>
-  
-  <b> Build a Brand Sentiment Analysis Extension for Twitter</b>
-  
-  <b> Common Linux/Unix commands</b>
 
   <b>•Microsoft Sentinel Live Attack Demonstration Home Lab </b>
 
