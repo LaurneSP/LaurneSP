@@ -20,7 +20,15 @@
 
   <b>•Nessus Vulnerability Management </b>
 
-  <b>  IBM QRadar SIEM </b>
+  <b>•IBM QRadar SIEM </b>
+
+  <b>•Hardening Kali Linux (encrypting and decrypting files in ccrypt)</b>
+
+  <b>•Encrypting and decrypting email from mailvelope</b>
+
+  <b>•Penetration Testing with OWSAP ZAP</b>
+
+  <b>•Scanning code for vulnerabilities with synk</b>
 
 
   
