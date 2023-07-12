@@ -20,6 +20,8 @@
 
   <b>•Nessus Vulnerability Management </b>
 
+  <b>  IBM QRadar SIEM </b>
+
 
   
 <h2> 📝Certificates</h2>
