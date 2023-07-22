@@ -16,8 +16,6 @@
 
   <b>•Protecting Endpoints with Xcitium OpenEDR lab</b>
 
-  <b>•Microsoft Sentinel Live Attack Demonstration Home Lab </b>
-
   <b>•Nessus Vulnerability Management </b>
 
   <b>•IBM QRadar SIEM </b>
