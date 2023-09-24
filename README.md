@@ -11,7 +11,6 @@
 
   <h2>💻Cybersecurity Projects </h2>
 
-
   <b>•Active Directory VM (Oracle)Home Lab </b>
 
   <b>•Protecting Endpoints with Xcitium OpenEDR lab</b>
