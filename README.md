@@ -31,11 +31,14 @@
 
   
 <h2> 📝Certificates </h2>
+
 <b> •Cybersecurity Analyst </b>
+
 <b> •Data Analytics </b>
+
 <b> •It Support </b>
 
 
 
 <h2> 🤳 Connect with me:</h2>
-<a>https://www.linkedin.com/in/laurne-paul-801599277/</a>
+<a> https://www.linkedin.com/in/laurne-paul-801599277/ </a>
