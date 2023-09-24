@@ -41,4 +41,4 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-<a> https://www.linkedin.com/in/laurne-paul-801599277/ </a>
+<a href="https://www.linkedin.com/in/laurne-paul-801599277/" </a>
