@@ -28,6 +28,8 @@
   <b>•Scanning code for vulnerabilities with synk</b>
 
 
+<h2>Data Analytics Projects<\h2>
+
   
 <h2> 📝Certificates </h2>
 
