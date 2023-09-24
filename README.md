@@ -38,4 +38,4 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-
+<b>https://www.linkedin.com/in/laurne-paul-801599277/</b>
