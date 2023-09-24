@@ -30,8 +30,10 @@
 
 
   
-<h2> 📝Certificates</h2>
+<h2> 📝Certificates </h2>
 <b> •Cybersecurity Analyst </b>
+<b> •Data Analytics </b>
+<b> •It Support </b>
 
 
 
